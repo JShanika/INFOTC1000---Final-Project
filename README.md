@@ -100,7 +100,7 @@ Vary: Accept
 }
 ```
 
-[Logo]: 
+[Logo]: 5e_backgrounds.png "D&D Logo"
 [ExSpell]: https://api.open5e.com/spells/?format=api "Example Spell"
 [HTML]: https://en.wikipedia.org/wiki/HTML "HTML Wiki"
 [JS]: https://www.javascript.com/ "JavaScript"
