@@ -8,29 +8,29 @@ Info. Tech. 1000 Final Project done in Markdown
 ![DND5E Logo][Logo]
 
 ## Repository Contents
-- **D&D5E Rules**
+- [**D&D5E Rules**][Rules]
   - Character Creation
   - Dice Rules
   - Conditions
   - Equipment
   - Spells
   - Beastiary
-- **Lore**
+- [**Lore**][Lore]
   - Creation Myth
   - Timeline
   - Planes of Existence
   - Dieties
-- **Maps**
+- [**Maps**][Maps]
   - Tallahs
   - Di'oa
   - Serenis
-- **NPCs**
+- [**NPCs**][NPCs]
   - Lawful
   - Chaotic
   - Good
   - Evil
   - Neutral
-- **PCs**
+- [**PCs**][PCs]
   - Griffith Paccino
   - Spike Lee
   - Arpunis "Space Marine"
@@ -38,11 +38,11 @@ Info. Tech. 1000 Final Project done in Markdown
   - Thok
   - Danger _(dead)_
   - Rogar
-- **Items**
+- [**Items**][Items]
   - Magic Items
   - Quest Items
   - Misc.
-- **Tallahs Campaign Logs**
+- [**Tallahs Campaign Logs**][Logs]
   - Session 01
   - Session 02
   - Session 03
@@ -106,7 +106,13 @@ Vary: Accept
 
 
 
-
+[Rules]: DND5E_Rules.md "D&D 5E Rules"
+[Lore]: Lore.md "Lore"
+[Maps]: Maps.md "Maps"
+[NPCs]: NPCs.md "NPCs"
+[PCs]: PCs.md "PCs"
+[Items]: Items.md "Items"
+[Logs]: SessionLogs.md "Logs"
 [Logo]: 5e_backgrounds.png "D&D Logo"
 [ExSpell]: https://api.open5e.com/spells/?format=api "Example Spell"
 [HTML]: https://en.wikipedia.org/wiki/HTML "HTML Wiki"
