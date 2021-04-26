@@ -4,7 +4,9 @@ Info. Tech. 1000 Final Project done in Markdown
 >Project Details: For this project, I will be transcribing my notes for a [**Dungeons and Dragons**][D&D] campaign that I run with my friends. I have plans to make these notes into a personal web page at some point with [**HTML**][HTML] and [**JavaScript**][JS]. This will allow me to query the notes, as well as perform functions during gameplay that will make my note taking, and running the game, smoother/easier.
 >
 >There will be pages in this repository dedicated to some of the basic rules I use in **Dungeons and Dragons**, _a.k.a_ "[**D&D5E**][D&D]", as well as pages used to display maps, characters, history, and items relevant to the custom world I have created for my group of players.
+
 ![DND5E Logo][Logo]
+
 ## Repository Contents
 - **D&D5E Rules**
   - Character Creation
@@ -59,7 +61,8 @@ Info. Tech. 1000 Final Project done in Markdown
 
 >My hope is that eventually I will be able to organize these notes with code, like [**JavaScript**][JS] and [**jQuery**][JQuery] on an [**HTML**][HTML] Web Server, so that I may quickly find things I am searching for mid-game session and change them according to my players interactions with my world in real time. A long-term goal of mine is to utilize what I have learned in Software Engineering to design and create an application to run along side these notes on the server that my players can use to keep track of their character information. They should be able to view all of their character information like equipment, stats, and personal notes. Along with this character sheet tracker, I want to be able to display relavant images, and isometric maps for any combat or roleplay situation they may find themselves in. When displaying a combat scenario to the players I want the application to track combat and aid in speeding up players turns. [**This API**][API] is one of many I have found that could aid in quickly requesting specific rulesets and official content from [**D&D5E**][D&D].
 
-####Example API Data of the Spell [**Acid Arrow**][ExSpell]
+#### Example API Data of the Spell [**Acid Arrow**][ExSpell]
+
 ```
 HTTP 200 OK
 Allow: GET, HEAD, OPTIONS
@@ -99,6 +102,10 @@ Vary: Accept
         }
 }
 ```
+
+
+
+
 
 [Logo]: 5e_backgrounds.png "D&D Logo"
 [ExSpell]: https://api.open5e.com/spells/?format=api "Example Spell"
