@@ -2,7 +2,7 @@
 >These are the standard rulesets for D&D 5E. All other pages in the repository correspond to my own custom, _"homebrew"_, rules and stats.
 >The three pillars of an adventure include, exploration, social interaction, and combat.
 
->Exploration- Includes both the adventurers’ movement
+>**Exploration-** Includes both the adventurers’ movement
 through the world and their interaction with objects and
 situations that require their attention. Exploration is the
 give and take of the players describing what they want
@@ -13,6 +13,29 @@ rolling plain or an hour making their way through
 caverns underground. On the smallest scale, it could
 mean one character pulling a lever in a dungeon room to
 see what happens.
+
+>**Social Interaction-** Features the adventurers talking to
+someone (or something) else. It might mean demanding
+that a captured scout reveal the secret entrance to the
+goblin lair, getting information from a rescued prisoner,
+pleading for mercy from an orc chieftain, or persuading
+a talkative magic mirror to show a distant location to
+the adventurers.
+
+>**Combat-** Involves characters
+and other creatures swinging weapons, casting spells,
+maneuvering for position, and so on—all in an effort
+to defeat their opponents, whether that means killing
+every enemy, taking captives, or forcing a rout. Combat
+is the most structured element of a D&D session, with
+creatures taking turns to make sure that everyone gets
+a chance to act. Even in the context of a pitched battle,
+there’s still plenty of opportunity for adventurers to
+attempt wacky stunts like surfing down a flight of stairs
+on a shield, to examine the environment (perhaps by
+pulling a mysterious lever), and to interact with other
+creatures, including allies, enemies, and neutral parties.
+
 
 
 ## D&D Stats and Ability Scores
