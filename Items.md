@@ -21,7 +21,7 @@
 - Honor's Last Stand
 - Kiss of the Changebringer
 - Pyremaul
-- Wraps of Dyamak
+- [Wraps of Dyamak](#wraps-of-dyamak)
 - Danoth's Visor
 - Grimoire Infinitus
 - Hide of the Feral Guardian
@@ -34,15 +34,15 @@
 - Blade of Broken Mirrors
 - Grovelthrash
 - Lash of Shadows
-- Mace of the Black Crown
+- [Mace of the Black Crown](mace-of-the-black-crown)
 - Ruin's Wake
 - Silken Spite
 - The Bloody End
 - Will of the Talon
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Quest Items
-- Planar Energy Focus
-- Heart of the Tides
+- [Planar Energy Focus](#planar-energy-focus)
+- [Heart of the Tides](#heart-of-the-tides)
 - Spore Seed
 - God's Bane
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
