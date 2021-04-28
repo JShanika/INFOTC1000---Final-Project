@@ -81,11 +81,35 @@ that there are benefits to your numbers depending on the racial benefits you rec
 |12-13|+1|28-29|+9|
 |14-15|+2|30|+10|
 
+## Dice Rules
+>There are six types of die used in the game, identified with the short hand of "d", followed by the number of sides on the die. They are the d20, d12, d10, d8, d6, and d4. A number prefacing this shorthand, Ex. 4d6, means that the roll requires four different d6.
 
+### The D20
+>The d20 is the most used dice in the game. It is used for all ability checks and are modified by the six ability scores your character uses. The process for rolling follows,
+1. **Roll the die and add a modifier.** 
+>Roll a d20 and add the relevant modifier. This is typically the modifier derived from one of the six ability scores, and it
+sometimes includes a proficiency bonus to reflect a character’s particular skill.
+2. **Apply circumstantial bonuses and penalties.**
+>A class feature, a spell, a particular circumstance, or some other effect might give a bonus or penalty to the check like, Advantage/Disadvantage, or many different spells including Bane/Bless.
+3. **Compare the total to a target number.**
+>If the total equals or exceeds the target number, the ability check, attack roll, or saving throw is a success. Otherwise, it’s
+a failure. The DM is usually the one who determines target numbers and tells players whether their ability checks, attack rolls, and saving throws succeed or fail.
+The target number for an ability check or a saving throw is called a Difficulty Class (DC). The target number for an attack roll is called an Armor Class (AC).
+This simple rule governs the resolution of most tasks in D&D play
 
+### Advantage and Disadvantage
+>Sometimes an ability check, attack roll, or saving throw is modified by special situations called advantage and
+disadvantage. Advantage reflects the positive circumstances surrounding a d20 roll, while disadvantage reflects the opposite. When you have either advantage or
+disadvantage, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage.
+For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17. Having both advantage and disadvantage on a roll cancels them both out, making the roll a normal single d20 roll.
 
+>Advantage and Disadvantage can only be applied once, even if multiple circumstances grant you either. For example, having two circumstances granting advantage still only allows one extra dice to be rolled. However if you have for example two advantages, and one disadvantage, instead of them canceling out, there is an extra advantage not cancelled by the disadvantage, granting the roll advantage still.
 
+### Specific Beats General
+>With so many rules and differing abilities in players and monsters, there are exceptions to many rules within the game. In these cases the specific rule always overrides the general. This is mostly seen in spellcasting, and racial abiities.
 
+### Round Down
+>As seen already with the ability scores, in D&D any number that has been split and is now a non integer will be rounded down, always.
 
 
 
