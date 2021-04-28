@@ -35,7 +35,7 @@
 
 
 
-[R]: DND5ERules.md "D&D 5E Rules"
+[R]: DND5E_Rules.md "D&D 5E Rules"
 [M]: Maps.md "Maps"
 
 
