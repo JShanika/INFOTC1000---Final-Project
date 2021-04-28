@@ -2,17 +2,17 @@
 [Table of Contents][TC]|[Previous page][L]|[Next page][N]
 
 ## Tallahs
-![Tallahs World Map](TallahsLabeled.png)
+![Tallahs World Map](TallahsLabeled.PNG)
 
 
 
 
 
 ### Di'oa
-![Di'oa Map](DioaLabeled.png)
+![Di'oa Map](DioaLabeled.PNG)
 
 #### Vestigial Sea
-![Vestigial Sea](VestigialSeaLabeled.png)
+![Vestigial Sea](VestigialSeaLabeled.PNG)
 
 
 
