@@ -34,4 +34,4 @@
 
 [TC]: README.md "Table of Contents"
 [P]: PCs.md "Player Characters"
-[S]: sessions.md "Session Logs"
+[S]: SessionLogs.md "Session Logs"
