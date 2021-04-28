@@ -1,4 +1,5 @@
 # D&D 5E Rules
+[Table of Contents][TC]|[Previous page][TC]|[Next page][]
 >These are the standard rulesets for D&D 5E. All other pages in the repository correspond to my own custom, _"homebrew"_, rules and stats.
 >The three pillars of an adventure include, exploration, social interaction, and combat.
 
@@ -113,3 +114,19 @@ For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If y
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[TC]: README.md "Table of Contents"
