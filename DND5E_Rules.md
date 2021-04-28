@@ -158,24 +158,24 @@ overwhelms the senses. Voices chatter in countless different languages. The smel
 
 ### Race Traits
 >Races with subraces will gain all of the features of the generic, as well as adding their specific subraces abilities.
-
+>*The variant human is another option for the human race. This variant replaces the ability score increases and allows a choice of proficincy in one skill, and adding one feat.
 |Race|Ability Score Increase|Size _(height,weight)_|Speed|Feats|Languages|Subraces|
 |:-|:-:|:-:|:-:|:-:|:-:|-:|
 |Dwarf|CON +2|Medium, 4-5 ft., 150 lb.|25 ft.|Darkvision, Dwarven Resiliance, Dwarven Combat Training, Tool Proficiency, Stone Cunning|Common, Dwarvish|Hill Dwarf, Mountain Dwarf, Duergar|
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
+|Hill Dwarf|WIS +1|/|/|Dwarven Toughness|/|/|
+|Mountain Dwarf|STR +2|/|/|Dwarven Armor Training|/|/|
+|Duergar|STR +1|/|/|Superior Darkvision, Duergar Resilience, Duergar Magic|Undercommon|/|
+|Elf|DEX +2|Medium, 5-6+ ft., 120  lb.|30 ft.|Darkvision, Fey Ancestry, Trance, Keen Senses|Common, Elvish|High Elf, Wood Elf, Dark Elf (Drow), Sea Elf, Eladrin|
+|High Elf|INT +1|/|/|Cantrip, Elf Weapon Training|+1 any|/|
+|Wood Elf|WIS +1|/|/|Elf Weapon Training, Fleet of Foot, Mask of the Wild|/|/|
+|Dark Elf/ Drow|CHA +1|/|/|Superior Darkvision, Drow Magic, Drow Weapon Training|Undercommon|/|
+|Sea Elf|CON +1|Sea Elf Training|Child of the Sea|Friend of the Sea|Aquan|/|
+|Eladrin|CHA +1|/|/|Fey Step|Sylvan|Autumn,Winter,Spring,Summer|
+|Halfling|DEX +2|Small, 3 ft., 40 lb.|25 ft.|Lucky, Brave, Nimble|Common, Halfling|Lightfoot Halfling, Stout Halfling|
+|Lightfoot Halfling|CHA +1|/|/|Naturally Stealthy|/|/|
+|Stout Halfling|CON +1|/|/|Stout Resilience|/|/|
+|Human|+1 all|Medium, 5-6 ft., 150|30 ft.|/|Common, +1 any|/|
+|Variant Human|+1 to any two|/|/|Skills, Feat|/|/|
 ||||||||
 
 
