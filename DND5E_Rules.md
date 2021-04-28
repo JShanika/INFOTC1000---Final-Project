@@ -112,7 +112,7 @@ For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If y
 ### Round Down
 >As seen already with the ability scores, in D&D any number that has been split and is now a non integer will be rounded down, always.
 
-
+![Races of D&D Image](https://preview.redd.it/kkjrw2cyu5c51.jpg?auto=webp&s=9f4c8af9b159221ba53e956ac956a8f5d08804b5)
 
 ## Races
 >A visit to one of the greatest cities in the worlds of Dungeons and Dragons — Waterdeep, the Free City of Greyhawk, or even uncanny Sigil, the City of Doors—
