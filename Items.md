@@ -5,7 +5,7 @@
 ### The Vestiges of Divergence
 >The vestiges are ancient weapons and armaments crafted by the gods to aid in The Dawn War.
 - Cabal's Ruin
-- Deathwalker's Ward
+- [Deathwalker's Ward](#deathwalkers-ward)
 - Fenthras, Wrath of the Fey Warden
 - Mythcarver
 - Plate of the Dawnmartyr
