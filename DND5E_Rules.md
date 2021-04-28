@@ -115,7 +115,36 @@ For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If y
 
 
 ## Races
+>A visit to one of the greatest cities in the worlds of Dungeons and Dragons — Waterdeep, the Free City of Greyhawk, or even uncanny Sigil, the City of Doors—
+overwhelms the senses. Voices chatter in countless different languages. The smells of cooking in dozens o f different cuisines mingle with the odors of crowded streets and poor sanitation. Buildings in myriad architectural styles display the diverse origins of their inhabitants. And the people them selves—people of varying size, shape, and color, dressed in a dazzling spectrum of styles and hues—represent many different races, from diminutive halflings and stout dwarves to majestically beautiful elves, mingling among a variety of human ethnicities. Scattered among the members of these more common races are the true exotics: a hulking dragonborn here, pushing his way through the crowd, and a sly tiefling there, lurking in the shadows with mischief in her eyes. A group of gnomes laughs as one of them activates a clever wooden toy that moves of its own accord. Halfelves and half-orcs live and work alongside humans, without fully belonging to the races of either of their parents. And there, well out of the sunlight, is a lone drow —a fugitive from the subterranean expanse of the Underdark, trying to make his way in a world that fears his kind.
 
+### Dwarf
+>Kingdoms rich in ancient grandeur, halls carved into the
+roots of mountains, the echoing of picks and hammers
+in deep mines and blazing forges, a commitment to
+clan and tradition, and a burning hatred of goblins and
+orcs —these common threads unite all dwarves.
+### Elf
+>Elves are a magical people of otherworldly grace, living
+in the world but not entirely part of it. They live in
+places of ethereal beauty, in the midst of ancient forests
+or in silvery spires glittering with faerie light, where
+soft music drifts through the air and gentle fragrances
+waft on the breeze. Elves love nature and magic, art
+and artistry, music and poetry, and the good things
+of the world.
+### Halfling
+>The comforts of home are the goals of most halflings'
+lives: a place to settle in peace and quiet, far from
+marauding monsters and clashing armies; a blazing fire
+and a generous meal; fine drink and fine conversation.
+Though some halflings live out their days in remote
+agricultural communities, others form nomadic bands
+that travel constantly, lured by the open road and the
+wide horizon to discover the wonders of new lands and
+peoples. But even these wanderers love peace, food,
+hearth, and home, though home might be a wagon
+jostling along an dirt road or a raft floating downriver.
 
 
 
