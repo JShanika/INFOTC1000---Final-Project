@@ -1,6 +1,15 @@
 # Non-Player Characters
 [Table of Contents][TC]|[Previous page][M]|[Next page][P]
 
+## Lawful
+
+## Chaotic
+
+## Neutral
+
+## Good
+
+## Evil
 
 
 

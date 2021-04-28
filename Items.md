@@ -1,7 +1,11 @@
 # Items
 [Table of Contents][TC]|[Previous page][P]|[Next page][S]
 
+## Magic Items
 
+## Quest Items
+
+## Misc.
 
 
 

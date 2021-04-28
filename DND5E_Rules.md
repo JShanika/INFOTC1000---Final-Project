@@ -1,4 +1,4 @@
-# D&D 5E Rules
+# DND 5E Rules
 [Table of Contents][TC]|[Previous page][TC]|[Next page][L]
 
 >These are the standard rulesets for D&D 5E. All other pages in the repository correspond to my own custom, _"homebrew"_, rules and stats.
@@ -155,6 +155,14 @@ overwhelms the senses. Voices chatter in countless different languages. The smel
 >Aasimar bear within their souls the light of the heavens. They are descended from humans with a touch of the power of Mount Celestia, the divine realm of many lawful good deities. Aasimar are born to serve as champions of the gods, their births hailed as blessed events. They are a people of otherworldly visages, with luminous features that reveal their celestial heritage.
 ### Warforged
 >The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.
+### Tortle
+>What many tortles consider a simple life, others might call a life of adventure. Tortles are born near sandy coastlines, but as soon as they're able to walk on two legs, they become nomad survivalists eager to explore the wilderness, experience its many wonders, put their skills to the test, and make new acquaintances.
+### Lizardfolk
+>Lizardfolk possess an alien and inscrutable mindset, their desires and thoughts driven by a different set of basic principles than those of warm-blooded creatures. Their dismal swamp homes might lie hundreds of miles from the nearest human settlement, but the gap between their way of thinking and that of the smooth-skins is far greater.
+### Changeling
+>A changeling can shift its face and form with a thought. Many changelings use this gift as a form of artistic and emotional expression, but it’s an invaluable tool for grifters, spies, and others who wish to deceive. This leads many people to treat known changelings with fear and suspicion.
+### Yuan-Ti
+>The serpent creatures known as yuan-ti are all that remains of an ancient, decadent human empire. Ages ago their dark gods taught them profane, cannibalistic rituals to mix their flesh with that of snakes, producing a caste-based society of hybrids in which the most snakelike are the leaders and the most humanlike are spies and agents in foreign lands.
 
 ### Race Traits
 >Races with subraces will gain all of the features of the generic, as well as adding their specific subraces abilities.
@@ -166,7 +174,7 @@ overwhelms the senses. Voices chatter in countless different languages. The smel
 |Hill Dwarf|WIS +1|/|/|Dwarven Toughness|/|/|
 |Mountain Dwarf|STR +2|/|/|Dwarven Armor Training|/|/|
 |Duergar|STR +1|/|/|Superior Darkvision, Duergar Resilience, Duergar Magic|Undercommon|/|
-|Elf|DEX +2|Medium, 5-6+ ft., 120  lb.|30 ft.|Darkvision, Fey Ancestry, Trance, Keen Senses|Common, Elvish|High Elf, Wood Elf, Dark Elf (Drow), Sea Elf, Eladrin|
+|Elf|DEX +2|Medium, 5-6+ ft., 120  lb.|30 ft.|Darkvision, Fey Ancestry, Trance, Keen Senses|Common, Elven|High Elf, Wood Elf, Dark Elf (Drow), Sea Elf, Eladrin|
 |High Elf|INT +1|/|/|Cantrip, Elf Weapon Training|+1 any|/|
 |Wood Elf|WIS +1|/|/|Elf Weapon Training, Fleet of Foot, Mask of the Wild|/|/|
 |Dark Elf/ Drow|CHA +1|/|/|Superior Darkvision, Drow Magic, Drow Weapon Training|Undercommon|/|
@@ -177,21 +185,145 @@ overwhelms the senses. Voices chatter in countless different languages. The smel
 |Stout Halfling|CON +1|/|/|Stout Resilience|/|/|
 |Human|+1 all|Medium, 5-6 ft., 150|30 ft.|/|Common, +1 any|/|
 |Variant Human|+1 to any two|/|/|Skills, Feat|/|/|
-||||||||
-
-
-
-
-
-
-
-
-
-
-
+|Dragonborn|STR +2, CHA +1|Medium, 6+ ft., 250 lb.|30 ft.|Draconic Ancestry, Breath Weapon, Damage Resistance|Common, Draconic|/|
+|Gnome|INT +2|Small, 3-4 ft., 40 lb.|25 ft.|Darkvision, Gnome Cunning|Common, Gnomish|Forest Gnome, Rock Gnome, Deep Gnome|
+|Forest Gnome|DEX +1|/|/|Natural Illusionist, Speak with Small Beasts|/|/|
+|Rock Gnome|CON +1|/|/|Artificers Lore, Tinker|/|/|
+|Deep Gnome|DEX +1|/|/|Superior Darkvision, Stone Camouflage|Undercommon|/|
+|Half-Elf|CHA +2, any two +1|Medium, 5-6 ft., 140 lb.|30 ft.|Darkvision, Fey Ancestry, Half-Elf Versatility|Common, Elven, +1 any|/|
+|Half-Orc|STR +2, CON +1|Medium, 5-6+ ft., 200 lb.|30 ft.|Darkvision, Menacing, Relentless Endurance, Savage Attacks|Common, Orc|/|
+|Tiefling|CHA +2|Medium, 5-6 ft., 150 lb.|30 ft.|Darkvision, Hellish Resistance|Common, Infernal|/|
+|Goliath|STR +2, CON +1|Medium, 7-8 ft., 300 lb.|30 ft.|Natural Athlete, Stone's Endurance, Powerful Build, Mountain Born|Common, Giant|/|
+|Goblin|DEX +2, CON +1|Small, 3-4 ft., 60 lb.|25 ft.|Darkvision, Fury of the Small, Nimble Escape|Common, Goblin|/|
+|Kobold|DEX +2, any other +1|Small, 2-3 ft., 30 lb.|25 ft.|Darkvision, Draconic Legacy, Draconic Roar|Common, Draconic|/|
+|Orc|STR +2, CON +1|Medium, 6+ ft., 280 lb.|30 ft.|Darkvision, Aggressive, Primal Intuition, Powerful Build|Common, Orc|/|
+|Firbolg|WIS +2, STR +1|Medium, 7-8 ft., 250 lb.|30 ft.|Firbolg Magic, Hidden Step, Powerful Build, Speech of Beast and Leaf|Common, Elven, Giant|/|
+|Tabaxi|DEX +2, CHA +1|Medium, 6 ft., 130 lb.|30 ft.|Darkvision, Feline Agility, Cat's Claws, Cat's Talent|Common, +1 any|/|
+|Genasi|CON +2|Medium, 5-6 ft., 150 lb.|30 ft.|/|Common, Primordial|Earth, Fire, Air, Water|
+|Earth Genasi|STR +1|/|/|Earth Walk, Merge with Stone|Terran|/|
+|Fire Genasi|INT +1|/|/|Darkvision, Fire Resistance, Reach to the Blaze|Ignan|/|
+|Air Genasi|DEX +1|/|/|Unending Breath, Mingle with the Wind|Auran|/|
+|Water Genasi|WIS +1|/|/|Acid Resistance, Amphibious, Swim, Call to the Wave|Aquan|/|
+|Aasimar|CHA +2|Medium, 5-6+ ft., 170 lb.|30 ft.|Darkvision, Celestial Resistance, Healing Hands, Light Bearer|Common, Celestial|Scourge, Protector, Fallen|
+|Protector Aasimar|WIS +1|/|/|Radiant Soul|/|/|
+|Scourge Aasimar|CON +1|/|/|Radiant Consumption|/|/|
+|Fallen Aasimar|STR +1|/|/|Necrotic Shroud|/|/|
+|Warforged|CON +2, +1 any other|Medium, 6+ ft., 300 lb.|30 ft.|Warforged Resilience, Sentry's Rest, Integrated Protection|Common, +1 any|Envoy, Juggernaut, Skirmisher|
+|Envoy|+1 any two|/|/|Integrated Tool, Specialized Design|/|/|
+|Juggernaut|STR +2|/|/|Iron Fists, Powerful Build|/|/|
+|Skirmisher|DEX +2|/|35 ft.|Swift, Light Step|/|/|
+|Tortle|STR +2, WIS +1|Medium, 5-6 ft., 450 lb.|30 ft.|Claws, Hold Breath, Natural Armor, Shell Defense, Survival Instinct|Common, Aquan|/|
+|Lizardfolk|CON +2, WIS +1|Medium, 6+ ft., 200 lb.|30 ft.|Bite, Cunning Artisan, Hold Breath, Hunter's Lore, Natural Armor, Hungry Jaws|Common, Draconic|/|
+|Changeling|CHA +2|Medium, 5-6 ft., 140 lb.|30 ft.|Changeling Instincts|Common, +2 any|/|
+|Yuan-Ti|CHA +2, INT +1|Medium, 5-6 ft., 150 lb.|30 ft.|Darkvision, Innate Spellcasting, Magic Resistance, Poison Immunity|Common, Abyssal, Draconic|/|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Backgrounds
+
+|Background|Proficiencies|Languages|Equipment|Feature|
+|:-|:-:|:-:|:-:|-:|
+|Acolyte|Insight, Religion|Any 2|Holy Symbol, Prayers, 5 Sticks of Incense, Vestments, Common Clothes, Belt Pouch, 15 GP|Shelter of the Faithful|
+|Charlatan|Deception, Sleight of Hand, Disquise Kit, Forgery Kit|/|Fine Clothes, Disguise Kit, Tool for your Con, Ex.(_weighted dice, , fake mark of pedigree_), Belt Pouch, 15 GP|False Identity|
+|Criminal|Deception, Stealth, 1 Gaming Set, Thieves Tools|/|Crowbar, Dark Common Clothes, Hood, Belt Pouch, 15 GP|Criminal Contact|
+|Entertainer|Acrobatics, Performance, Disquise Kit, Musical Instrument|/|Musical Instrument, The Favor of an Admirer, Costume, Belt Pouch, 15 GP|By Popular Demand|
+|Folk Hero|Animal Handling, Survival, 1 Artisan Tool, Land Vehicles|/|Artisans Tools, Shovel, Iron Pot, Common Clothes, Belt Pouch, 15 GP|Rustic Hospitality|
+|Guild Artisan|Insight, Persuassion, 1 Artisan Tool|Any 1|Artisan Tools, Letter of Introduction (Guild), Travelers Clothes, Belt Pouch, 15 GP|Guild Membership|
+|Hermit|Medicine, Religion, Herbalism Kit|Any 1|Scroll Case with Notes, Winter Blanket, Common Clothes, Herbalism Kit, Belt Pouch, 15 GP|Discovery|
+|Noble|History, Persuassion, 1 Gaming Set|Any 1|Fine Clothes, Signet Ring, Scroll of Pedigree, Coin Purse, 25 GP|Position of Privlege|
+|Outlander|Athletics, Survival, 1 Musical Instrument|Any 1|Staff, Hunting Trap, Kill Trophy, Travellers Clothes, Belt Pouch, 10 GP|Wanderer|
+|Sage|Arcana, History|Any 2|Black Ink, Quill, Small Knife, Common Clothes, Notes, Belt Pouch, 10 GP|Researcher|
+|Sailor|Athletics, Perception, Navigator's Tools, Water Vehicles|/|Belaying Pin, 50 ft. Silk Rope, Lucky Charm, Common Clothes, Belt Pouch, 10 GP|Ship's Passage|
+|Soldier|Athletics, Intimidation, 1 Gaming Set, Land Vehicles|/|Insignia of Rank, Trophy from Battle, Dice or Cards, Common Clothes, Belt Pouch, 10 GP|Military Rank|
+|Urchin|Sleight of Hand, Stealth, Disguise Kit, Thieves Tools|/|Small Knife, Map of City, Common Clothes, Belt Pouch, 10 GP|City Secrets|
+
+### Languages
+
+#### Standard
+|Language|Typical Speakers|Script|
+|:-|:-:|-:|
+|Common|Humans|Common|
+|Dwarvish|Dwarves|Dwarvish|
+|Elvish|Elves|Elvish|
+|Giant|Obres, Giants|Dwarvish|
+|Gnomish|Gnnomes|Dwarvish|
+|Goblin|Goblinoids|Dwarvish|
+|Halfling|Halflings|Common|
+|Orc|Orcs|Dwarvish|
+#### Exotic
+|Language|Typical Speakers|Script|
+|:-|:-:|-:|
+|Abyssal|Demons|Infernal|
+|Celestial|Celestials|Celestial|
+|Draconic|Dragons, Dragonborn|Draconic|
+|Deep Speech|Mind Flayers, Beholders|/|
+|Infernal|Devils|Infernal|
+|Primordial|Elementals|Dwarvish|
+|Sylvan|Fey Creatures|Elvish|
+|Undercommon|Underdark Races|Elvish|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Classes
+>Class is the primary definition of what your character
+can do. It’s more than a profession; it’s your character’s
+calling. Class shapes the way you think about the
+world and interact with it and your relationship with
+other people and powers in the multiverse. A fighter,
+for example, might view the world in pragmatic terms
+of strategy and maneuvering, and see herself as just a
+pawn in a much larger game. A cleric, by contrast, might
+see him self as a willing servant in a god’s unfolding plan
+or a conflict brewing among various deities. While the
+fighter has contacts in a mercenary company or army,
+the cleric might know a number of priests, paladins, and
+devotees who share his faith.
+
+>Your class gives you a variety of special features, such
+as a fighter’s mastery of weapons and armor, and a
+wizard’s spells. At low levels, your class gives you only
+two or three features, but as you advance in level you
+gain more and your existing features often improve.
+Each class entry in this chapter includes a table
+summarizing the benefits you gain at every level, and
+a detailed explanation of each one.
+
+|Class|Description|Hit Die|Primary Ability|Saving Throw Proficiencies|Armor and Weapon Proficiencies|
+|:-|:-|:-:|:-:|:-|:-|
+|[Barbarian]|A fierce warrior of primitive background who can enter a battle rage.|d12|Strength|Strength, Constitution|Light and Medium Armor, Shields, Simple and Martial Weapons|
+|[Bard]|An inspiring magician whose power echoes the music of creation.|d8|Charisma|Dexterity, Charisma|Light Armor, Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords|
+|[Cleric]|A priestly champion who wields divine magic in service of a higher power.|d8|Wisdom|Wisdom, Charisma|Light and Medium Armor, Shields, Simple Weapons|
+|[Druid]|A priest of the old faith, wielding the powers of nature--moonlight and plant growth, fire and lighting--and adopting animal forms.|d8|Wisdom|Intelligence, Wisdom|Light and Medium Armor, Shields, Clubs, Daggers, Darts, Javelins, Maces, Quarterstaffs, Scimitars, Sickles, Slings, Spears|
+|[Fighter]|A master of martial combat, skilled with a variety of weapons and armor.|d10|Strength, Dexterity|Strength, Constitution|All Armor, Shields, Simple and Martial Weapons|
+|[Monk]|A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection.|d8|Dexterity, Wisdom|Strength, Dexterity|Simple Weapons, Shortswords|
+|[Paladin]|A holy warrior bound to a sacred oath|d10|Strength, Charisma|Wisdom, Charisma|All Armor, Shields, Simple and Martial Weapons|
+|[Ranger]|A warrior who uses martial prowess and nature magic to combat threats on the edges of civiliation.|d10|Dexterity, Wisdom|Strength, Dexterity|Light and Medium Armor, Shields, Simple and Martial Weapons|
+|[Rogue]|A scoundrel who uses stealth and trickery to overcome obstacles and enemies.|d8|Dexterity|Dexterity, Intelligence|Light Armor, Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords|
+|[Sorcerer]|A spellcaster who draws on inherent magic from a gift or bloodline.|d6|Charisma|Wisdom, Charisma|Daggers, Darts, Slings, Quarterstaffs, Light Crossbows|
+|[Warlock]|A wielder of magic that is derived from a bargain with an etraplanar entity.|d8|Charisma|Wisdom, Charisma|Light Armor, Simple Weapons|
+|[Wizard]|A scholarly magic-user capable of manipulating the structures of reality.|d6|Intelligence|Intelligence, Wisdom|Daggers, Darts, Slings, Quarterstaffs, Light Crossbows|
+
+### **Proficiency Bonus**
+|Level|Bonus|
+|:-|-:|
+|1|+2|
+|2|+2|
+|3|+2|
+|4|+2|
+|5|+3|
+|6|+3|
+|7|+3|
+|8|+3|
+|9|+4|
+|10|+4|
+|11|+4|
+|12|+4|
+|13|+5|
+|14|+5|
+|15|+5|
+|16|+5|
+|17|+6|
+|18|+6|
+|19|+6|
+|20|+6|
 
 
 
@@ -199,22 +331,211 @@ overwhelms the senses. Voices chatter in countless different languages. The smel
 
 
 
+|[Barbarian]|[Fighter]|
+|:--|:--|
+|<table> <tr><th>Level</th><th>Features</th><th>Rages</th><th>Rage Damage</th></tr><tr><td>1st</td><td>Rage, Unarmored Defense</td><td>2</td><td>+2</td></tr><tr><td>2nd</td><td>Reckless Attack, Danger Sense</td><td>2</td><td>+2</td></tr><tr><td>3rd</td><td>Primal Path</td><td>3</td><td>+2</td></tr><tr><td>4th</td><td>Ability Score Improvement</td><td>3</td><td>+2</td></tr><tr><td>5th</td><td>Extra Attack, Fast Movement</td><td>3</td><td>+2</td></tr><tr><td>6th</td><td>Path Feature</td><td>4</td><td>+2</td></tr><tr><td>7th</td><td>Feral Instinct</td><td>4</td><td>+2</td></tr><tr><td>8th</td><td>Ability Score Improvement</td><td>4</td><td>+2</td></tr><tr><td>9th</td><td>Brutal Critical (1 die)</td><td>4</td><td>+3</td></tr><tr><td>10th</td><td>Path Feature</td><td>4</td><td>+3</td></tr><tr><td>11th</td><td>Relentless Rage</td><td>4</td><td>+3</td></tr><tr><td>12th</td><td>Ability Score Improvement</td><td>5</td><td>+3</td></tr><tr><td>13th</td><td>Brutal Critical (2 dice)</td><td>5</td><td>+3</td></tr><tr><td>14th</td><td>Path Feature</td><td>5</td><td>+3</td></tr><tr><td>15th</td><td>Persistant Rage</td><td>5</td><td>+3</td></tr><tr><td>16th</td><td>Ability Score Improvement</td><td>5</td><td>+4</td></tr><tr><td>17th</td><td>Brutal Critical (3 dice)</td><td>6</td><td>+4</td></tr><tr><td>18th</td><td>Indomitable Might</td><td>6</td><td>+4</td></tr><tr><td>19th</td><td>Ability Score Improvement</td><td>6</td><td>+4</td></tr><tr><td>20th</td><td>Primal Champion</td><td>Unlimited</td><td>+4</td></tr> </table>|<table> <tr><th>Level</th><th>Features</th></tr><tr><td>1st</td><td>Fighting Style, Second Wind</td></tr><tr><td>2nd</td><td>Action Surge (1 use)</td></tr><tr><td>3rd</td><td>Martial Archetype</td></tr><tr><td>4th</td><td>Ability Score Improvement</td></tr><tr><td>5th</td><td>Extra Attack</td></tr><tr><td>6th</td><td>Ability Score Improvement</td></tr><tr><td>7th</td><td>Martial Archetype Feature</td></tr><tr><td>8th</td><td>Ability Score Improvement</td></tr><tr><td>9th</td><td>Indomitable (1 use)</td></tr><tr><td>10th</td><td>Martial Archetype Feature</td></tr><tr><td>11th</td><td>Extra Attack (2)</td></tr><tr><td>12th</td><td>Ability Score Improvement</td></tr><tr><td>13th</td><td>Indomitable (2 uses)</td></tr><tr><td>14th</td><td>Ability Score Improvement</td></tr><tr><td>15th</td><td>Martial Archetype Feature</td></tr><tr><td>16th</td><td>Ability Score Improvement</td></tr><tr><td>17th</td><td>Action Surge (2 uses), Indomitable (3 uses)</td></tr><tr><td>18th</td><td>Martial Archetype Feature</td></tr><tr><td>19th</td><td>Ability Score Improvement</td></tr><tr><td>20th</td><td>Extra Attack (3)</td></tr> </table>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+|[Monk]|[Rogue]|
+|:--|:--|
+|<table> <tr><th>Level</th><th>Features</th><th>Unarmored Movement</th><th>Martial Arts Damage</th></tr><tr><td>1st</td><td>Unarmored Defense, Martial Arts</td><td>/</td><td>1d4</td></tr><tr><td>2nd</td><td>Ki, Unarmored Movement</td><td>+10 ft.</td><td>1d4</td></tr><tr><td>3rd</td><td>Monastatic Tradition, Deflect Missiles</td><td>+10 ft.</td><td>1d4</td></tr><tr><td>4th</td><td>Ability Score Improvement</td><td>+10 ft.</td><td>1d4</td></tr><tr><td>5th</td><td>Extra Attack, Stunning Strike</td><td>+10 ft.</td><td>1d6</td></tr><tr><td>6th</td><td>Ki-Empowered Strikes, Monastatic Tradition Feature</td><td>+15 ft.</td><td>1d6</td></tr><tr><td>7th</td><td>Evasion, Stillness of Mind</td><td>+15 ft.</td><td>1d6</td></tr><tr><td>8th</td><td>Ability Score Improvement</td><td>+15 ft.</td><td>1d6</td></tr><tr><td>9th</td><td>Unarmored Movement Improvement</td><td>+15 ft.</td><td>1d6</td></tr><tr><td>10th</td><td>Purity of Body</td><td>+20 ft.</td><td>1d6</td></tr><tr><td>11th</td><td>Monastatic Tradition Feature</td><td>+20 ft.</td><td>1d8</td></tr><tr><td>12th</td><td>Ability Score Improvement</td><td>+20 ft.</td><td>1d8</td></tr><tr><td>13th</td><td>Tongue of the Sun and Moon</td><td>+20 ft.</td><td>1d8</td></tr><tr><td>14th</td><td>Diamond Soul</td><td>+25 ft.</td><td>1d8</td></tr><tr><td>15th</td><td>Timeless Body</td><td>+25 ft.</td><td>1d8</td></tr><tr><td>16th</td><td>Ability Score Improvement</td><td>+25 ft.</td><td>1d8</td></tr><tr><td>17th</td><td>Monastatic Tradition Feature</td><td>+25 ft.</td><td>1d10</td></tr><tr><td>18th</td><td>Empty Body</td><td>+30 ft.</td><td>1d10</td></tr><tr><td>19th</td><td>Ability Score Improvement</td><td>+30 ft.</td><td>1d10</td></tr><tr><td>20th</td><td>Perfect Self</td><td>+30 ft.</td><td>1d10</td></tr> </table>|<table> <tr><th>Level</th><th>Features</th><th>Sneak Attack Damage</th></tr><tr><td>1st</td><td>Expertise, Sneak Attack, Thieves' Cant</td><td>1d6</td></tr><tr><td>2nd</td><td>Cunning Action</td><td>1d6</td></tr><tr><td>3rd</td><td>Roguish Archetype</td><td>2d6</td></tr><tr><td>4th</td><td>Ability Score Improvement</td><td>2d6</td></tr><tr><td>5th</td><td>Uncanny Dodge</td><td>3d6</td></tr><tr><td>6th</td><td>Expertise</td><td>3d6</td></tr><tr><td>7th</td><td>Evasion</td><td>4d6</td></tr><tr><td>8th</td><td>Ability Score Improvement</td><td>4d6</td></tr><tr><td>9th</td><td>Roguish Archetype Feature</td><td>5d6</td></tr><tr><td>10th</td><td>Ability Score Improvement</td><td>5d6</td></tr><tr><td>11th</td><td>Reliable Talent</td><td>6d6</td></tr><tr><td>12th</td><td>Ability Score Improvement</td><td>6d6</td></tr><tr><td>13th</td><td>Roguish Archetype Feature</td><td>7d6</td></tr><tr><td>14th</td><td>Blindsense</td><td>7d6</td></tr><tr><td>15th</td><td>Slippery Mind</td><td>8d6</td></tr><tr><td>16th</td><td>Ability Score Improvement</td><td>8d6</td></tr><tr><td>17th</td><td>Roguish Archetype Feature</td><td>9d6</td></tr><tr><td>18th</td><td>Elusive</td><td>9d6</td></tr><tr><td>19th</td><td>Ability Score Improvement</td><td>10d6</td></tr><tr><td>20th</td><td>Stroke of Luck</td><td>10d6</td></tr> </table>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Conditions
+>During play there are many conditions that can be applied to you, your party, or an enemy. They each provide varying circumstances that could affect your turn, rolls, or abilities. Most Conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
 
+### Blinded
+>A blinded creature can't see and automatically fails any ability check that requires sight. Attack rolls against that creature have advantage, and the creature's attack rolls have disadvantage.
 
+### Charmed
+>A charmed creature can’t Attack the charmer or target the charmer with harmful Abilities or magical Effects. The charmer has advantage on any ability check to interact socially with the creature.
 
+### Deafened
+>A deafened creature can’t hear and automatically fails any ability check that requires hearing.
 
+### Frightened
+>A frightened creature has disadvantage on Ability Checks and Attack Rolls while the source of its fear is within Line of Sight. The creature can’t willingly move closer to the source of its fear.
 
+### Grappled
+>A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed. The condition ends if the Grappler is incapacitated (see the condition). The condition also ends if an Effect removes the grappled creature from the reach of the Grappler or Grappling Effect, such as when a creature is hurled away by the Thunderwave spell.
+
+### Incapacitated
+>An incapacitated creature can’t take Actions or Reactions.
+
+### Invisible
+>An invisible creature is impossible to see without the aid of magic or a Special sense. For the Purpose of Hiding, the creature is heavily obscured. The creature’s location can be detected by any noise it makes or any tracks it leaves. Attack Rolls against the creature have disadvantage, and the creature’s Attack Rolls have advantage.
+
+### Paralyzed
+>A paralyzed creature is incapacitated (see the condition) and can’t move or speak. The creature automatically fails Strength and Dexterity Saving Throws. Attack Rolls against the creature have advantage. Any Attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+
+### Petrified
+>A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging. The creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings. Attack Rolls against the creature have advantage. The creature automatically fails Strength and Dexterity Saving Throws. The creature has Resistance to all damage. The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+
+### Poisoned
+>A poisoned creature has disadvantage on Attack Rolls and Ability Checks.
+
+### Prone
+>A prone creature’s only Movement option is to crawl, unless it stands up and thereby ends the condition. The creature has disadvantage on Attack Rolls. An Attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the Attack roll has disadvantage.
+
+### Restrained
+>A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed. Attack Rolls against the creature have advantage, and the creature’s Attack Rolls have disadvantage. The creature has disadvantage on Dexterity Saving Throws.
+
+### Stunned
+>A stunned creature is incapacitated (see the condition), can’t move, and can speak only falteringly. The creature automatically fails Strength and Dexterity Saving Throws. Attack Rolls against the creature have advantage.
+
+### Unconscious
+>An unconscious creature is incapacitated (see the condition), can’t move or speak, and is unaware of its surroundings The creature drops whatever it’s holding and falls prone. The creature automatically fails Strength and Dexterity Saving Throws. Attack Rolls against the creature have advantage. Any Attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+
+### Exhaustion
+>Some Special Abilities and Environmental Hazards, such as starvation and the long-­term Effects of freezing or scorching temperatures, can lead to a Special condition called exhaustion. Exhaustion is measured in six levels. An Effect can give a creature one or more levels of exhaustion, as specified in the effect’s description.
+
+|Level|Effect|
+|:-|:-:|
+|1|Disadvantage on all ability checks|
+|2|Speed halved|
+|3|Disadvantage on attack rolls and saving throws|
+|4|Hit point maximum halved|
+|5|Speed reduced to 0|
+|6|Death|
+
+>If an already exhausted creature suffers another Effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect’s description. A creature suffers the Effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on Ability Checks. An Effect that removes exhaustion reduces its level as specified in the effect’s description, with all exhaustion Effects Ending if a creature’s exhaustion level is reduced below 1. Finishing a Long Rest reduces a creature’s exhaustion level by 1, provided that the creature has also ingested some food and drink.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Equipment
+
+![Equipment Image](https://media.tumblr.com/5095b5c820ac41203610613e78f5ada2/tumblr_inline_mkljqxKdoi1qz4rgp.jpg)
+
+### **Standard Exchange Rates**
+|Coin|CP|SP|GP|PP|
+|:-|:-:|:-:|:-:|:-:|
+|Copper (CP)|1|1/10|1/100|1/1000|
+|Silver (SP)|10|1|1/10|1/100|
+|Gold (GP)|100|10|1|1/10|
+|Platinum (PP)|1000|100|10|1|
+
+>Gems, Jewelry, and Art objects can be used interchangeably with currency, meaning if you have a 50 GP Ruby or necklace, It can be used exactly like 50 GP.
+>Armor and Weapons in good condition will sell for half the market value, or less if in worse condition.
+>Trade goods are more common in rural areas, and can be bartered with.
+
+### **Armor**
+|Armor|Cost|Armor Class (AC)|Strength|Stealth|Weight|
+|:-|:-:|:-:|:-:|:-:|-:|
+|**Light Armor**|
+|Padded|5 gp|11 + Dex modifier|/|Disadvantage|8 lb.|
+|Leather|10 gp|11 + Dex modifier|/|/|10 lb.|
+|Studded Leather|45 gp|12 + Dex modifier|/|/|13 lb.|
+|**Medium Armor**|
+|Hide|10 gp|12 + Dex modifier (max 2)|/|/|12 lb.|
+|Chain Shirt|50 gp|13 + Dex modifier (max 2)|/|/|12 lb.|
+|Scale Mail|50 gp|14 + Dex modifier (max 2)|/|/|12 lb.|
+|Breastplate|400 gp|14 + Dex modifier (max 2)|/|Disadvantage|12 lb.|
+|Half Plate|750 gp|15 + Dex modifier (max 2)|/|Disadvantage|12 lb.|
+|**Heavy Armor**|
+|Ring Mail|30 gp|14|/|Disadvantage|40 lb.|
+|Chain Mail|75 gp|16|STR 13|Disadvantage|55 lb.|
+|Splint|200 gp|17|STR 15|Disadvantage|60 lb.|
+|Plate|1500 gp|18|STR 15|Disadvantage|65 lb.|
+|Shield|
+|Shield|10 gp|+2|/|/|6 lb.|
+
+### **Weapons**
+|Name|Cost|Damage|Weight|Properties|
+|:-|:-:|:-:|:-|:-|
+|**Simple Melee Weapons**|
+|Club| 1 sp |1d4 bludgeoning| 2 lb.| Light|
+|Dagger| 2 gp| 1d4 piercing| 1 lb.| Finesse, light, thrown (range 20/60)|
+|Greatclub| 2 sp| 1d8 bludgeoning| 10 lb.| Two-handed|
+|Handaxe| 5 gp| 1d6 slashing| 2 lb.| Light, thrown (range 20/60)|
+|Javelin| 5 sp| 1d6 piercing| 2 lb.| Thrown (range 30/120)|
+|Light Hammer| 2 gp| 1d4 bludgeoning| 2 lb.| Light, thrown (range 20/60)|
+|Mace| 5 gp| 1d6 bludgeoning| 4 lb.|/|
+|Quarterstaff| 2 sp| 1d6 bludgeoning| 4 lb.| Versatile (1d8)|
+|Sickle| 1 gp| 1d4 slashing| 2 lb.| Light|
+|Spear| 1 gp| 1d6 piercing| 3 lb.| Thrown (range 20/60), versatile (1d8)|
+|Unarmed Strike|/| 1 bludgeoning|/|/|
+|Simple Ranged Weapons|
+|Crossbow, light| 25 gp| 1d8 piercing| 5 lb.| Ammunition (range 80/320), loading, two-handed|
+|Dart| 5 cp| 1d4 piercing| 1/4 lb.| Finesse, thrown (range 20/60)|
+|Shortbow| 25 gp| 1d6 piercing| 2 lb.| Ammunition (range 80/320), two-handed|
+|Sling| 1 sp| 1d4 bludgeoning| /| Ammunition (range 30/120)|
+|Martial Melee Weapons|
+|Battleaxe| 10 gp| 1d8 slashing| 4 lb.| Versatile (1d10)|
+|Flail| 10 gp| 1d8 bludgeoning| 2 lb.| /|
+|Glaive| 20 gp| 1d10 slashing| 6 lb.| Heavy, reach, two-handed|
+|Greataxe| 30 gp| 1d12 slashing| 7 lb.| Heavy, two-handed|
+|Greatsword| 50 gp| 2d6 slashing| 6 lb.| Heavy, two-handed|
+|Halberd| 20 gp| 1d10 slashing| 6 lb.| Heavy, reach, two-handed|
+|Lance| 10 gp| 1d12 piercing| 6 lb. Reach, special|
+|Longsword| 15 gp| 1d8 slashing| 3 lb.| Versatile (1d10)|
+|Maul| 10 gp| 2d6 bludgeoning| 10 lb.| Heavy, two-handed|
+|Morningstar| 15 gp| 1d8 piercing| 4 lb.| /|
+|Pike| 5 gp| 1d10 piercing| 18 lb.| Heavy, reach, two-handed|
+|Rapier| 25 gp| 1d8 piercing| 2 lb.| Finesse|
+|Scimitar| 25 gp| 1d6 slashing| 3 lb.| Finesse, light|
+|Shortsword| 10 gp| 1d6 piercing| 2 lb.| Finesse, light|
+|Trident| 5 gp| 1d6 piercing| 4 lb.| Thrown (range 20/60), versatile (1d8)|
+|War pick| 5 gp| 1d8 piercing| 2 lb.| /|
+|Warhammer| 15 gp| 1d8 bludgeoning| 2 lb.| Versatile (1d10)|
+|Whip| 2 gp| 1d4 slashing| 3 lb.| Finesse, reach|
+|Martial Ranged Weapons|
+|Blowgun| 10 gp| 1 piercing| 1 lb.| Ammunition (range 25/100), loading|
+|Crossbow, hand| 75 gp| 1d6 piercing| 3 lb.| Ammunition (range 30/120), light, loading|
+|Crossbow, heavy| 50 gp| 1d10 piercing| 18 lb.| Ammunition (range 100/400), heavy, loading, two-handed|
+|Longbow| 50 gp| 1d8 piercing| 2 lb.| Ammunition (range 150/600), heavy, two-handed|
+|Net| 1 gp| /| 3 lb.| Special, thrown (range 5/15)|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Spells
+>A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds. Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions, drain life energy away, and restore life to the dead. Uncounted thousands of spells have been created over the course of the multiverse’s history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so.
+
+>Spells are leveled 0-9, and spellcasters increase the level of spells they can cast by leveling up. Every spellcasting class has its own rules for known and prepaired spells. Most spell casters have spell slots that define how many spells of a certain level can be cast. Lower level spells can be cast with higher level spell slots, and may increase the effects. Cantrips are 0th level spells and can be cast an unlimited amount of times, and they also level up with the player. Ritual spells can be cast without using a spell slot by taking 10 minutes longer to cast it.
+
+### [Bard]
+#### Cantrips
+- [Blade Ward](http://dnd5e.wikidot.com/spell:blade-ward)
+- [Dancing Lights](http://dnd5e.wikidot.com/spell:dancing-lights)
+- [Friends](http://dnd5e.wikidot.com/spell:friends)
+- [Light](http://dnd5e.wikidot.com/spell:light)
+- [Mage Hand](http://dnd5e.wikidot.com/spell:mage-hand)
+- [Mending](http://dnd5e.wikidot.com/spell:mending)
+- [Messsage](http://dnd5e.wikidot.com/spell:message)
+- [Minor Illusion](http://dnd5e.wikidot.com/spell:minor-illusion)
+- [Prestidigitation](http://dnd5e.wikidot.com/spell:prestidigitation)
+- [True Strike](http://dnd5e.wikidot.com/spell:true-strike)
+- [Vicious Mockery](http://dnd5e.wikidot.com/spell:vicious-mockery)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Beastiary
+>There are a myriad of beasts, fiends, monstrosities, and undead that are used in the game. Each has an individual stat block to use in combat and RP.
+
+### Undead
+- [Zombie]
+- [Wight]
+- [Will-o'-Wisp]
+
+### Beasts
+- [Hawk]
+- [Goat]
+- [Mammoth]
+- [Polar Bear]
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Back to Top](#dnd-5e-rules)
+
 [TC]: README.md "Table of Contents"
 [L]: Lore.md "Lore"
-
-
-
-
-
-
+[Barbarian]: http://dnd5e.wikidot.com/barbarian "Barbarian"
+[Bard]: http://dnd5e.wikidot.com/bard "Bard"
+[Cleric]: http://dnd5e.wikidot.com/cleric "Cleric"
+[Druid]: http://dnd5e.wikidot.com/druid "Druid"
+[Fighter]: http://dnd5e.wikidot.com/fighter "Fighter"
+[Monk]: http://dnd5e.wikidot.com/monk "Monk"
+[Paladin]: http://dnd5e.wikidot.com/paladin "Paladin"
+[Ranger]: http://dnd5e.wikidot.com/ranger "Ranger"
+[Rogue]: http://dnd5e.wikidot.com/rogue "Rogue"
+[Sorcerer]: http://dnd5e.wikidot.com/sorcerer "Sorcerer"
+[Warlock]: http://dnd5e.wikidot.com/warlock "Warlock"
+[Wizard]: http://dnd5e.wikidot.com/wizard "Wizard"

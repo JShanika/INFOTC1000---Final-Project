@@ -14,6 +14,7 @@
   - Ability Scores
   - Dice Rules
   - Races
+  - Backgrounds
   - Classes
   - Conditions
   - Equipment
