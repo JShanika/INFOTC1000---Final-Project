@@ -158,7 +158,8 @@ overwhelms the senses. Voices chatter in countless different languages. The smel
 
 ### Race Traits
 >Races with subraces will gain all of the features of the generic, as well as adding their specific subraces abilities.
->*The variant human is another option for the human race. This variant replaces the ability score increases and allows a choice of proficincy in one skill, and adding one feat.
+>*The variant human is another option for the human race. This variant replaces the ability score increases and allows a choice of proficincy in one skill, and adding one feat.*
+
 |Race|Ability Score Increase|Size _(height,weight)_|Speed|Feats|Languages|Subraces|
 |:-|:-:|:-:|:-:|:-:|:-:|-:|
 |Dwarf|CON +2|Medium, 4-5 ft., 150 lb.|25 ft.|Darkvision, Dwarven Resiliance, Dwarven Combat Training, Tool Proficiency, Stone Cunning|Common, Dwarvish|Hill Dwarf, Mountain Dwarf, Duergar|
