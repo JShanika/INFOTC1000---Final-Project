@@ -42,7 +42,7 @@
 ## **Character Details**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Iapar Hectar
->Iapar is a Merchant/Ambassador in Queens Breech. He hails from Draconia and uses The Emerde Wetlands to smuggle illegal goods to and from Draconia. He is a red dragonborn adorned with many pieces of jewelry.
+>Iapar is a Merchant/Ambassador in Queens Breech. He hails from Draconia and uses The Emerde Wetlands to smuggle illegal goods to and from Draconia. He is a red dragonborn adorned with many pieces of jewelry, as well as a large metal prosthetic where is jaw should be. This was a wound from an old raid when he was younger in Draconia.
 ![Iapar Hectar](IaparHectar.PNG)
 
 
@@ -58,7 +58,7 @@
 >Fossous is an elderly dwarf who worked as a stone mason his whole life.
 >He is a member of The Cult of The Betrayers, but because he is the choosen champion of Tharizdun, The Mad God, he has gone insane from hs worship. He still works for the Cult but has been convinced he works for some kind of inventors club, making arcane machines for Rader Nivrev.
 >His most recent success was creating a device to cause localized plane shifts, causing a normal stone gargoyle to come to life after channeling the elemental Plane of Earth.
-
+![Fossous Hornthane](FossousHornthane.jpg)
 #### Appearance
 >He is short, even for a dwarf, fat and old. His once long beard now is gray and unkept, burned away in patches. You can see soot smudged all around his face and a heavy smell of booze and gunpowder radiates from him.
 
