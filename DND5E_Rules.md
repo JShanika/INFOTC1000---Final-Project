@@ -43,8 +43,8 @@ creatures, including allies, enemies, and neutral parties.
 >or STR,DEX,CON,WIS,INT,CHA, respectivly. These will be used when the Dungeon Master, DM, asks for an ability check, and can be used by themselves or looked 
 at through the characters "Skills" section of their character sheet where a player may have proficincies applied from racial, class, or background benefits.
 
->You find these stats through a number of ways including using the 5E standard array of stats, 15,14,13,12,10,8 , or by rolling them with 4d6 and dropping the lowest dice six times.
->These numbers define which areas your character has high ability and low ability in. You can apply these umbers in whichever order you wish, however it is good to keep in mind 
+>You find these stats through a number of ways including using the 5E standard array of stats, 15,14,13,12,10,8 , or by rolling them with 4d6 and dropping the lowest dice six times. Ex. 4d6(_5 + 4 + 1 + 2_), makes an ability score of 11(_5 + 4 + 2_), before racial increases.
+>These numbers define which areas your character has high ability and low ability in. You can apply these numbers in whichever order you wish, however it is good to keep in mind 
 that there are benefits to your numbers depending on the racial benefits you recieve after choosing a race.
 
 |Stat|Description|Related Skills|
@@ -67,7 +67,7 @@ that there are benefits to your numbers depending on the racial benefits you rec
 |Intelligence|Wizard, Artificer|High Elf (+1), Gnome (+2), Tiefling (+1), Human (+1)|
 |Charisma|Bard, Sorcerer, Warlock|Half-Elf (+2), Drow (+1), Lightfoot Halfling (+1), Dragonborn (+1), Tiefling (+2), Human (+1)|
 
->Ability scores are used to determine ability modifiers. Modifiers are what is used on a dice roll for a specific action, either adding to the number rolled, meaning you are good in that ability, or subtracting, meaning you are bad. They are found by subtracting 10 from the score, and dividing by two, round down.
+>Ability scores are used to determine ability modifiers. Modifiers are what is used on a dice roll for a specific action, either adding to the number rolled, meaning you are good in that ability, or subtracting, meaning you are bad. They are found by subtracting 10 from the score, and dividing by two, round down. An ability score can never exceed 20 unless stated otherwise by things like magical items, or feats.
 
 ### Ability Scores and Modifiers
 |Score|Modifier|Score|Modifier|
