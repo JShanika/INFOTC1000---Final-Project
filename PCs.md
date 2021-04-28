@@ -32,6 +32,7 @@
 >Champion of Kord
 
 ## Danger (dead)
+![Danger](https://preview.redd.it/ictrl01j95201.jpg?width=640&crop=smart&auto=webp&s=665402595d9504182f15ff6ea9752fa8615b25c8)
 >Tiefling Sorcerer/Wizard from Di'oa
 >Danger was a wild magic sorcerer that was taught wizardy by Xalvador, the Archmage of Serenis.
 >He was killed by a water elemental at the bottom of The Vestigial Sea. His companions had a chance to save him but while playing Rock-Paper-Scissors for who should use their healing potion on him, he bled out.
