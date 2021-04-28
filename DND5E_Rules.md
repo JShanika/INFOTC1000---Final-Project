@@ -1,5 +1,6 @@
 # D&D 5E Rules
 [Table of Contents][TC]|[Previous page][TC]|[Next page][L]
+
 >These are the standard rulesets for D&D 5E. All other pages in the repository correspond to my own custom, _"homebrew"_, rules and stats.
 >The three pillars of an adventure include, exploration, social interaction, and combat.
 
@@ -119,103 +120,43 @@ For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If y
 overwhelms the senses. Voices chatter in countless different languages. The smells of cooking in dozens o f different cuisines mingle with the odors of crowded streets and poor sanitation. Buildings in myriad architectural styles display the diverse origins of their inhabitants. And the people them selves—people of varying size, shape, and color, dressed in a dazzling spectrum of styles and hues—represent many different races, from diminutive halflings and stout dwarves to majestically beautiful elves, mingling among a variety of human ethnicities. Scattered among the members of these more common races are the true exotics: a hulking dragonborn here, pushing his way through the crowd, and a sly tiefling there, lurking in the shadows with mischief in her eyes. A group of gnomes laughs as one of them activates a clever wooden toy that moves of its own accord. Halfelves and half-orcs live and work alongside humans, without fully belonging to the races of either of their parents. And there, well out of the sunlight, is a lone drow —a fugitive from the subterranean expanse of the Underdark, trying to make his way in a world that fears his kind.
 
 ### Dwarf
->Kingdoms rich in ancient grandeur, halls carved into the
-roots of mountains, the echoing of picks and hammers
-in deep mines and blazing forges, a commitment to
-clan and tradition, and a burning hatred of goblins and
-orcs —these common threads unite all dwarves.
+>Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs —these common threads unite all dwarves.
 ### Elf
->Elves are a magical people of otherworldly grace, living
-in the world but not entirely part of it. They live in
-places of ethereal beauty, in the midst of ancient forests
-or in silvery spires glittering with faerie light, where
-soft music drifts through the air and gentle fragrances
-waft on the breeze. Elves love nature and magic, art
-and artistry, music and poetry, and the good things
-of the world.
+>Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry, and the good things of the world.
 ### Halfling
->The comforts of home are the goals of most halflings'
-lives: a place to settle in peace and quiet, far from
-marauding monsters and clashing armies; a blazing fire
-and a generous meal; fine drink and fine conversation.
-Though some halflings live out their days in remote
-agricultural communities, others form nomadic bands
-that travel constantly, lured by the open road and the
-wide horizon to discover the wonders of new lands and
-peoples. But even these wanderers love peace, food,
-hearth, and home, though home might be a wagon
-jostling along an dirt road or a raft floating downriver.
+>The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies; a blazing fire and a generous meal; fine drink and fine conversation. Though some halflings live out their days in remote agricultural communities, others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. But even these wanderers love peace, food, hearth, and home, though home might be a wagon jostling along an dirt road or a raft floating downriver.
 ### Human
->In the reckonings of most worlds, humans are the
-youngest of the common races, late to arrive on the
-world scene and short-lived in comparison to dwarves,
-elves, and dragons. Perhaps it is because of their shorter
-lives that they strive to achieve as much as they can in
-the years they are given. Or maybe they feel they have
-something to prove to the elder races, and that’s why
-they build their mighty empires on the foundation of
-conquest and trade. Whatever drives them, humans
-are the innovators, the achievers, and the pioneers
-of the worlds.
+>In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have  something to prove to the elder races, and that’s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 ### Dragonborn
->Born of dragons, as their name proclaims, the
-dragonborn walk proudly through a world that greets
-them with fearful incomprehension. Shaped by draconic
-gods or the dragons themselves, dragonborn originally
-hatched from dragon eggs as a unique race, combining
-the best attributes of dragons and humanoids. Some
-dragonborn are faithful servants to true dragons, others
-form the ranks of soldiers in great wars, and still others
-find themselves adrift, with no clear calling in life.
+>Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.
 ### Gnome
->A constant hum of busy activity pervades the warrens
-and neighborhoods where gnomes form their closeknit communities. 
-Louder sounds punctuate the hum:
-a crunch of grinding gears here, a minor explosion
-there, a yelp of surprise or triumph, and especially
-bursts of laughter. Gnomes take delight in life, enjoying
-every moment of invention, exploration, investigation,
-creation, and play.
+>A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their closeknit communities.  Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.
 ### Half-Elf
->Walking in two worlds but truly belonging to neither,
-half-elves combine what some say are the best qualities
-of their elf and human parents: human curiosity,
-inventiveness, and ambition tempered by the refined
-senses, love of nature, and artistic tastes of the elves.
-Some half-elves live among humans, set apart by their
-emotional and physical differences, watching friends
-and loved ones age while time barely touches them.
-Others live with the elves, growing restless as they
-reach adulthood in the timeless elven realms, while
-their peers continue to live as children. Many half-elves,
-unable to fit into either society, choose lives of solitary
-wandering or join with other misfits and outcasts in
-the adventuring life.
+>Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf and human parents: human curiosity, inventiveness, and ambition tempered by the refined senses, love of nature, and artistic tastes of the elves. Some half-elves live among humans, set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the elves, growing restless as they reach adulthood in the timeless elven realms, while their peers continue to live as children. Many half-elves, unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.
 ### Half-Orc
->Whether united under the leadership of a mighty
-warlock or having fought to a standstill after years
-of conflict, orc and human tribes som etim es form
-alliances, joining forces into a larger horde to the terror
-of civilized lands nearby. When these alliances are
-sealed by marriages, half-orcs are born. Some half-orcs
-rise to become proud chiefs of orc tribes, their human
-blood giving them an edge over their full-blooded orc
-rivals. Some venture into the world to prove their worth
-among humans and other more civilized races. Many of
-these become adventurers, achieving greatness for their
-mighty deeds and notoriety for their barbaric customs
-and savage fury.
+>Whether united under the leadership of a mighty warlock or having fought to a standstill after years of conflict, orc and human tribes som etim es form alliances, joining forces into a larger horde to the terror of civilized lands nearby. When these alliances are sealed by marriages, half-orcs are born. Some half-orcs rise to become proud chiefs of orc tribes, their human blood giving them an edge over their full-blooded orc rivals. Some venture into the world to prove their worth among humans and other more civilized races. Many of these become adventurers, achieving greatness for their mighty deeds and notoriety for their barbaric customs and savage fury.
 ### Tiefling
->To be greeted with stares and whispers, to suffer
-violence and insult on the street, to see mistrust and
-fear in every eye: this is the lot of the tiefling. And to
-twist the knife, tieflings know that this is because a
-pact struck generations ago infused the essence of
-Asmodeus—overlord of the Nine Hells—into their
-bloodline. Their appearance and their nature are not
-their fault but the result of an ancient sin, for which
-they and their children and their children’s children
-will always be held accountable.
+>To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus—overlord of the Nine Hells—into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children’s children will always be held accountable.
+### Goliath
+>At the highest mountain peaks — far above the slopes where trees grow and where the air is thin and the frigid winds howl — dwell the reclusive goliaths. Few folk can claim to have seen a goliath, and fewer still can claim friendship with them. Goliaths wander a bleak realm of rock, wind, and cold. Their bodies look as if they are carved from mountain stone and give them great physical power. Their spirits take after the wandering wind, making them nomads who wander from peak to peak. Their hearts are infused with the cold regard of their frigid realm, leaving each goliath with the responsibility to earn a place in the tribe or die trying.
+### Goblin
+>Goblins occupy an uneasy place in a dangerous world, and they react by lashing out at any creatures they believe they can bully. Cunning in battle and cruel in victory, goblins are fawning and servile in defeat.
+### Kobold
+>Kobolds are often dismissed as cowardly, foolish, and weak, but these little reptilian creatures actually have a strong social structure that stresses devotion to the tribe, are clever with their hands, and viciously work together in order to overcome their physical limitations.
+### Orc
+>Savage and fearless, orc tribes are ever in search of elves, dwarves, and humans to destroy. Motivated by their hatred of the civilized races of the world and their need to satisfy the demands of their deities, the orcs know that if they fight well and bring glory to their tribe, Gruumsh will call them home.
+### Firbolg
+>Firbolgs are fey-oriented half-giants. Their tribes cloister in remote forest strongholds, preferring to spend their days in quiet harmony with the woods. When provoked, firbolgs demonstrate formidable skills with weapons and druidic magic.
+### Tabaxi
+>Hailing from a strange and distant land, wandering tabaxi are catlike humanoids driven by curiosity to collect interesting artifacts, gather tales and stories, and lay eyes on all the world's wonders. Ultimate travelers, the inquisitive tabaxi rarely stay in one place for long. Their innate nature pushes them to leave no secrets uncovered, no treasures or legends lost.
+### Genasi
+>The Elemental Planes are often inhospitable to natives of the Material Plane: crushing earth, searing flames, boundless skies, and endless seas make visiting these places dangerous for even a short time. The powerful genies, however, don’t face such troubles when venturing into the mortal world. They adapt well to the mingled elements of the Material Plane, and they sometimes visit—whether of their own volition or compelled by magic. Some genies can adopt mortal guise and travel incognito. Those who think of other planes at all consider them remote, distant realms, but planar influence can be felt throughout the world. It sometimes manifests in beings who, through an accident of birth, carry the power of the planes in their blood. The genasi are one such people, the offspring of genies and mortals.
+### Aasimar
+>Aasimar bear within their souls the light of the heavens. They are descended from humans with a touch of the power of Mount Celestia, the divine realm of many lawful good deities. Aasimar are born to serve as champions of the gods, their births hailed as blessed events. They are a people of otherworldly visages, with luminous features that reveal their celestial heritage.
+### Warforged
+>The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
