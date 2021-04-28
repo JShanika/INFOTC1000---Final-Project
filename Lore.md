@@ -42,18 +42,18 @@
 
 
 
-## Timeline
-- The Two Sisters - Eons
-- The Dawn War - 100 Years
-- The Days of Courage - 1500 Years
+## **Timeline**
+- The Two Sisters - _Eons_
+- The Dawn War - _100 Years_
+- The Days of Courage - _1500 Years_
 - The Sunddering
 
 
-## Known History
-### The Days of Courage
+## **Known History**
+### **The Days of Courage**
 >During this time period, post Dawn War, life on Tallahs, named by the mortals who inhabited it, thrived and expanded across the land. The gods walked among the mortals, some aiding in their progress, others hiding, plotting their own intrests. After 1500 years of evolution, the gods decided that some parts of this world were either too bright, or too dark. The gods argued over this fact, the inhabitants of both sides began to clash once more.
 
-### The Sunddering
+### **The Sunddering**
 >Lord Ao, who had stayed hidden until now, stepped into the world once more and sunddered existance into structured order. This was the creation of the outer planes, and the splitting of the material plane. The Feywild was created out of everything too bright for this world, and the Shadowfell out of everything too dark.
 
 >Catastrophy struck civilization as he did this, sending the material plane back into the stone age, reseting life on Tallahs with the old world left to rubble and ruin.
@@ -61,7 +61,7 @@
 >The only races to survive this sunddering were the Fey, Sarrukh, Batrachi, Aearee, and a quick evolving species of primates, soon to be the Humans of Tallahs.
 
 
-## Planes of Existance
+## **Planes of Existance**
 >The Planes of existance include, The Astral Sea, The Elemental Chaos, The Outer Planes, and the Inner.
 ![Great Wheel Cosmology](https://images.squarespace-cdn.com/content/v1/5bd88db093a6320f071b1a50/1566176650812-3YT3YYQYZQYJQRMG4IDK/ke17ZwdGBToddI8pDm48kPZz4fCZLMM4p8qjHo2aFc1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI78CElKYZTHZPpr3AeoQ76ZTnrs7ii8akXPkpf_7zrC8/GreatWheelCosmology.png)
 >Many dieties found the outer planes to be habitable, fitting to their extreme alignments, while the Inner was left to the mortals. Portals between the planes existed throughout the material plane, however finding one was extremely rare, and surviving the other side was never a gaurauntee.
@@ -70,10 +70,10 @@
 
 
 
-## Dieties
+## **Dieties**
 >The pantheon of the divine was split into 8 parts, aligning with the original 8 ideas Shar and Selune brought into existance. Under these 8 domains existed countless dieties with varying amounts of divine power. This divine power now being understood as the returned favor of mortals who worship these beings.
 
-### The Current Pantheon
+### **The Current Pantheon**
 |Domain|Diety|
 |:-|-:|
 |Light|Pelor, The Dawnfather|
