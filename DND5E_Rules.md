@@ -156,6 +156,39 @@ overwhelms the senses. Voices chatter in countless different languages. The smel
 ### Warforged
 >The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.
 
+### Race Traits
+>Races with subraces will gain all of the features of the generic, as well as adding their specific subraces abilities.
+
+|Race|Ability Score Increase|Size _(height,weight)_|Speed|Feats|Languages|Subraces|
+|:-|:-:|:-:|:-:|:-:|:-:|-:|
+|Dwarf|CON +2|Medium, 4-5 ft., 150 lb.|25 ft.|Darkvision, Dwarven Resiliance, Dwarven Combat Training, Tool Proficiency, Stone Cunning|Common, Dwarvish|Hill Dwarf, Mountain Dwarf, Duergar|
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+
+
+
+
+
+
+
+
+
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -175,7 +208,12 @@ overwhelms the senses. Voices chatter in countless different languages. The smel
 
 
 
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [TC]: README.md "Table of Contents"
 [L]: Lore.md "Lore"
+
+
+
+
+
+
