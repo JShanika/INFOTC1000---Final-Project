@@ -9,8 +9,10 @@ Info. Tech. 1000 Final Project done in Markdown
 
 ## Repository Contents
 - [**D&D5E Rules**][Rules]
-  - Character Creation
+  - Ability Scores
   - Dice Rules
+  - Races
+  - Classes
   - Conditions
   - Equipment
   - Spells
