@@ -48,7 +48,7 @@ at through the characters "Skills" section of their character sheet where a play
 that there are benefits to your numbers depending on the racial benefits you recieve after choosing a race.
 
 |Stat|Description|Related Skills|
-|:-|:-:|-:|
+|:-|:-:|:-:|
 |Strength|This ability score determines your characters raw physical aptitude for things like climbing, jumping, lifting, pushing, and grappling. Most weapons in D&D also use STR for its modifiers, unless it is a finesse weapon|Athletics, Intimidation _(strength based)_|
 |Dexterity|This ability score determines how dextrous your character is and is used as a quantifier for how nimble, agile, and flexible your character is, as well as being the modifier for finesse, and ranged weapons|Acrobatics, Sleight of Hand, and Stealth|
 |Constitution|This ability score determines how hearty your character is. A high constitution means a larger HP pool, as well as abilities like resisting poisons, increased endurance, and even holding your breath|Holding Breath, Resisting Poison, Endurance, and Concentration|
@@ -56,10 +56,30 @@ that there are benefits to your numbers depending on the racial benefits you rec
 |Intelligence|This ability score is used for a characters book smarts. The ability to recall information, and understand complex systems, like a wizards study of magic, or a dwarves known history of stonework and masonry.|Arcana, History, Nature, and Religion|
 |Charisma|This ability score determines how well your character can interact with other player characters, PCs, or non-player characters, NPCs. This can be described in many ways including attractivness, social grace, or even manipulative abilities|Deception, Intimidation, Performance, and Persuasion|
 
+>In D&D there are some races and backgrounds that benefit certain classes much more than others, for example an Orc would be a much better barbarian than a gnome would. This allows for many players to try an min-max their characters to be the best they can. This is a fun strategy for making a character however I would also argue that a varied combination of things youre interested in can make for a much more enjoying and rich role-playing experience, as well as forcing a unique kind of play for a specific class making the game less _"railroaded"_ in design. That being said, here is a structured layout for what classes require ability wise, and which races can benefit your stats for play.
 
+|Stat|Important For|Racial Increases|
+|:-|:-:|:-:|
+|Strength|Barbarian, Fighter, Paladin|Mountain Dwarf (+2), Half-Orc (+2), Dragonborn (+2), Human (+1)|
+|Dexterity|Monk, Ranger, Rogue|Elf (+2), Forest Gnome (+1), Halfling (+2), Human (+1)|
+|Constitution|Everyone|Dwarf (+2), Half-Orc (+1), Stout Halfling (+1), Rock Gnome (+1), Human (+1)|
+|Wisdom|Cleric, Druid|Hill Dwarf (+1), Wood Elf (+1), Human (+1)|
+|Intelligence|Wizard, Artificer|High Elf (+1), Gnome (+2), Tiefling (+1), Human (+1)|
+|Charisma|Bard, Sorcerer, Warlock|Half-Elf (+2), Drow (+1), Lightfoot Halfling (+1), Dragonborn (+1), Tiefling (+2), Human (+1)|
 
+>Ability scores are used to determine ability modifiers. Modifiers are what is used on a dice roll for a specific action, either adding to the number rolled, meaning you are good in that ability, or subtracting, meaning you are bad. They are found by subtracting 10 from the score, and dividing by two, round down.
 
-
+### Ability Scores and Modifiers
+|Score|Modifier|Score|Modifier|
+|:-:|:-:|:-:|:-:|
+|1|-5|16-17|+3|
+|2-3|-4|18-19|+4|
+|4-5|-3|20-21|+5|
+|6-7|-2|22-23|+6|
+|8-9|-1|24-25|+7|
+|10-11|+0|26-27|+8|
+|12-13|+1|28-29|+9|
+|14-15|+2|30|+10|
 
 
 
