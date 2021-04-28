@@ -37,7 +37,7 @@ on a shield, to examine the environment (perhaps by
 pulling a mysterious lever), and to interact with other
 creatures, including allies, enemies, and neutral parties.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## D&D Stats and Ability Scores
 >In D&D, there are six main attributes to a character in play. They are, Strength, Dexterity, Constitution, Wisdom, Intellignece, and Charisma, 
@@ -81,7 +81,7 @@ that there are benefits to your numbers depending on the racial benefits you rec
 |10-11|+0|26-27|+8|
 |12-13|+1|28-29|+9|
 |14-15|+2|30|+10|
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Dice Rules
 >There are six types of die used in the game, identified with the short hand of "d", followed by the number of sides on the die. They are the d20, d12, d10, d8, d6, and d4. A number prefacing this shorthand, Ex. 4d6, means that the roll requires four different d6.
 
